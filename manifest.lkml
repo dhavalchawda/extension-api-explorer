@@ -20,6 +20,6 @@ application: api-explorer {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "uat_psas_db"
   export: override_optional
 }
